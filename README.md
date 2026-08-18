@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🛠️ Web3 Automation & Script Developer
 
-<!--
-**erwindobp98/erwindobp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Specializing in automated bot scripts for Crypto Airdrops, Retroactive Tasks, Testnets, and Web3 Mining.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Focus & Capabilities
+
+* **Airdrop & Retroactive Bots:** Otomatisasi klaim, transaksi harian, dan interaksi dApp (EVM & Non-EVM).
+* **Testnet Automation:** Automated script untuk menjalankan node, faucet claim, dan transaksi berulang di berbagai jaringan testnet.
+* **Web3 Mining Scripts:** Otomatisasi bot mining berbasis CLI, API, maupun browser/WebSockets.
+* **System Scripting:** Auto-retry, multi-account management (wallet/proxy handling), dan integrasi headless browser (Playwright/Selenium).
+
+---
+
+### 💻 Tech Stack & Environment
+
+* **Core Language:** Python
+* **Scripting & Shell:** Bash / Linux / Termux (Android)
+* **Web3 Tools:** `web3.py`, REST APIs, WebSocket Integrations
+
+---
+
+### 📌 Repositories Overview
+
+* **atf & teqoin** — Custom Python scripts & airdrop/token automation tools.
+* **tradingview-mcp** — Advanced TradingView MCP Server for AI-powered market analysis.
+* **superchain** — Web3 & blockchain interaction scripts.
+* **linux-android** — Setup environment untuk menjalankan script bot 24/7 di Termux/Android.
+
+---
+
+### 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwindobp98&layout=compact&theme=dark" alt="Top Languages" width="350" />
+</p>
